@@ -1,5 +1,5 @@
  [Desktop Entry]
- Name = Open in VS Code
+ Name = Open in VS Code Insiders
  Type=Service
  ServiceTypes=KonqPopupMenu/Plugin
  MimeType=inode/directory
@@ -7,7 +7,7 @@
  Actions=openInVSCode
  
  [Desktop Action openInVSCode]
- Name=Open in VS Code
- Name[nl]=Openen in VS Code
- Icon=com.visualstudio.code
- Exec=code %u
+ Name=Open in VS Code Insiders
+ Name[nl]=Openen in VS Code Insiders
+ Icon=com.visualstudio.code.insiders
+ Exec=code-insiders %u
